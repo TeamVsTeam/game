@@ -1,5 +1,6 @@
 {
-  "game":"test",
+  "game":"https://github.com/TeamVsTeam/game/tree/main/Game",
   "game_version":"1.0.0"
-  
+  "license":"",
+  "developer_id":"Thebloxers998"
 }
