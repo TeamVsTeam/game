@@ -1,6 +1,22 @@
 {
-  "game":"https://github.com/TeamVsTeam/game/tree/main/Game",
-  "game_version":"1.0.0"
-  "license":"https://github.com/TeamVsTeam/game?tab=GPL-3.0-1-ov-file#readme",
-  "developer_id":"https://github.com/Thebloxers998"
+  "name": "TeamVsTeam",
+  "version": "1.0.0",
+  "description": "An exciting team-based shooter game.",
+  "developer": "Thebloxers998",
+  "license": "GPL-3.0",
+  "repository": "https://github.com/TeamVsTeam/game",
+  "game_url": "https://github.com/TeamVsTeam/game/tree/main/Game",
+  "developer_id": "https://github.com/Thebloxers998",
+  "author_contact": "Thebloxers9985@outlook.com",
+  "keywords": ["shooter", "team-based", "multiplayer"],
+  "categories": ["Shooter", "Multiplayer", "Team-Based"],
+  "platform": ["Windows", "macOS", "Linux"],
+  "language": ["English"],
+  "homepage": "https://teamvsteam.com",
+  "rating": "T for Teen",
+  "privacy_policy": "https://teamvsteam.com/privacy",
+  "terms_of_service": "https://teamvsteam.com/terms",
+  "release_notes": "Initial release with exciting team-based shooter gameplay.",
+  "community_url": "https://community.teamvsteam.com",
+  "build": "1.0.0-2025013"
 }
